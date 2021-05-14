@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -729,4 +730,737 @@
     </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D0E4C6D-FAA6-4FC9-AD10-31064DC31099}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QYMSAS</RootNamespace>
+    <AssemblyName>QYMSAS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.6.6823.24527, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.6.6823.24527\lib\net35-client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.DebuggerVisualizers, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.12\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SpreadsheetLight, Version=3.4.11.0, Culture=neutral, PublicKeyToken=32fbb46dc1730c57, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpreadsheetLight.3.4.11\lib\net40\SpreadsheetLight.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.5.6298.3372, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aceites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aceites.Designer.cs">
+      <DependentUpon>Aceites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarMaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarMaquina.Designer.cs">
+      <DependentUpon>AgregarMaquina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alerta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alerta.Designer.cs">
+      <DependentUpon>Alerta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bascula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bascula.Designer.cs">
+      <DependentUpon>bascula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basededatos.cs" />
+    <Compile Include="Combustible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combustible.Designer.cs">
+      <DependentUpon>Combustible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contraseña.Designer.cs">
+      <DependentUpon>Contraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearUsuario.Designer.cs">
+      <DependentUpon>CrearUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CuentasCobro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CuentasCobro.Designer.cs">
+      <DependentUpon>CuentasCobro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="C_egreso_acopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="C_egreso_acopio.Designer.cs">
+      <DependentUpon>C_egreso_acopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="C_Egreso_Recebera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="C_Egreso_Recebera.Designer.cs">
+      <DependentUpon>C_Egreso_Recebera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="estadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="estadisticas.Designer.cs">
+      <DependentUpon>estadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exportExcel.cs" />
+    <Compile Include="Facturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturacion.Designer.cs">
+      <DependentUpon>Facturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturacion_Acopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturacion_Acopio.Designer.cs">
+      <DependentUpon>Facturacion_Acopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturas_recebera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturas_recebera.Designer.cs">
+      <DependentUpon>Facturas_recebera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Foton2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Foton2.Designer.cs">
+      <DependentUpon>Foton2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacturaC_Acopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturaC_Acopio.Designer.cs">
+      <DependentUpon>FacturaC_Acopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailServices\MasterMailServer.cs" />
+    <Compile Include="MailServices\SystemSupportMail.cs" />
+    <Compile Include="Maquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maquinaria.Designer.cs">
+      <DependentUpon>Maquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacturaC_Recebera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturaC_Recebera.Designer.cs">
+      <DependentUpon>FacturaC_Recebera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Horas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Horas.Designer.cs">
+      <DependentUpon>Horas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Acopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Acopio.Designer.cs">
+      <DependentUpon>Menu_Acopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Recebera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Recebera.Designer.cs">
+      <DependentUpon>Menu_Recebera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="movimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="movimientos.Designer.cs">
+      <DependentUpon>movimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nomina_Acopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nomina_Acopio.Designer.cs">
+      <DependentUpon>Nomina_Acopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nomina_Recebera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nomina_Recebera.Designer.cs">
+      <DependentUpon>Nomina_Recebera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produccion_Acopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produccion_Acopio.Designer.cs">
+      <DependentUpon>Produccion_Acopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReciboDeCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReciboDeCaja.Designer.cs">
+      <DependentUpon>ReciboDeCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Remisiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remisiones.Designer.cs">
+      <DependentUpon>Remisiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Remisiones1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remisiones1.Designer.cs">
+      <DependentUpon>Remisiones1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteAcopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteAcopio.Designer.cs">
+      <DependentUpon>ReporteAcopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteM.Designer.cs">
+      <DependentUpon>ReporteM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesOperarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesOperarios.Designer.cs">
+      <DependentUpon>ReportesOperarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resumen_Acopio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resumen_Acopio.Designer.cs">
+      <DependentUpon>Resumen_Acopio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resumen_Año.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resumen_Año.Designer.cs">
+      <DependentUpon>Resumen_Año.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resumen_Mes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resumen_Mes.Designer.cs">
+      <DependentUpon>Resumen_Mes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RETRO3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RETRO3.Designer.cs">
+      <DependentUpon>RETRO3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="seleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seleccion.Designer.cs">
+      <DependentUpon>seleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="SqlServer\UserDao.cs" />
+    <Compile Include="SZN114.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SZN114.Designer.cs">
+      <DependentUpon>SZN114.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoR.Designer.cs">
+      <DependentUpon>TipoR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoReporte.Designer.cs">
+      <DependentUpon>TipoReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trabajadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trabajadores.Designer.cs">
+      <DependentUpon>Trabajadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserModel.cs" />
+    <Compile Include="Viaticos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viaticos.Designer.cs">
+      <DependentUpon>Viaticos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aceites.resx">
+      <DependentUpon>Aceites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarMaquina.resx">
+      <DependentUpon>AgregarMaquina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alerta.resx">
+      <DependentUpon>Alerta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bascula.resx">
+      <DependentUpon>bascula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Combustible.resx">
+      <DependentUpon>Combustible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contraseña.resx">
+      <DependentUpon>Contraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearUsuario.resx">
+      <DependentUpon>CrearUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CuentasCobro.resx">
+      <DependentUpon>CuentasCobro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="C_egreso_acopio.resx">
+      <DependentUpon>C_egreso_acopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="C_Egreso_Recebera.resx">
+      <DependentUpon>C_Egreso_Recebera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="estadisticas.resx">
+      <DependentUpon>estadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturacion.resx">
+      <DependentUpon>Facturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturacion_Acopio.resx">
+      <DependentUpon>Facturacion_Acopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas_recebera.resx">
+      <DependentUpon>Facturas_recebera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Foton2.resx">
+      <DependentUpon>Foton2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturaC_Acopio.resx">
+      <DependentUpon>FacturaC_Acopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturaC_Recebera.resx">
+      <DependentUpon>FacturaC_Recebera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Horas.resx">
+      <DependentUpon>Horas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maquinaria.resx">
+      <DependentUpon>Maquinaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Acopio.resx">
+      <DependentUpon>Menu_Acopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Recebera.resx">
+      <DependentUpon>Menu_Recebera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="movimientos.resx">
+      <DependentUpon>movimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nomina_Acopio.resx">
+      <DependentUpon>Nomina_Acopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nomina_Recebera.resx">
+      <DependentUpon>Nomina_Recebera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produccion_Acopio.resx">
+      <DependentUpon>Produccion_Acopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReciboDeCaja.resx">
+      <DependentUpon>ReciboDeCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remisiones.resx">
+      <DependentUpon>Remisiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remisiones1.resx">
+      <DependentUpon>Remisiones1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.rdlc" />
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="ReporteAcopio.resx">
+      <DependentUpon>ReporteAcopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteM.resx">
+      <DependentUpon>ReporteM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesOperarios.resx">
+      <DependentUpon>ReportesOperarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resumen_Acopio.resx">
+      <DependentUpon>Resumen_Acopio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resumen_Año.resx">
+      <DependentUpon>Resumen_Año.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resumen_Mes.resx">
+      <DependentUpon>Resumen_Mes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RETRO3.resx">
+      <DependentUpon>RETRO3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seleccion.resx">
+      <DependentUpon>seleccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SZN114.resx">
+      <DependentUpon>SZN114.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoR.resx">
+      <DependentUpon>TipoR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoReporte.resx">
+      <DependentUpon>TipoReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trabajadores.resx">
+      <DependentUpon>Trabajadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Viaticos.resx">
+      <DependentUpon>Viaticos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\retro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carbon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_507320.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crearUSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceites.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combustible.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busqueda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-invoice-computer-icons-electronic-billing-receipt-invoices-vector-drawing-5ab11071c9e381.4781539515215535218269.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-invoice-computer-icons-electronic-billing-receipt-invoices-vector-drawing-5ab11071c9e381.47815395152155352182691.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sidebar_documentos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-atras-png-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-atras-png-51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enviar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enviar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proyecto-de-ley.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pase-de-abordar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\construccion-y-herramientas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reloj %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-de-encendido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\izquierda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\en-espera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barra-grafica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portapapeles %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obrero.png" />
+    <None Include="Resources\analisis.png" />
+    <None Include="Resources\cheque.png" />
+    <None Include="Resources\camion-volquete.png" />
+    <None Include="Resources\carbon1.png" />
+    <None Include="Resources\calendario-en-un-circulo.png" />
+    <None Include="Resources\calendario.png" />
+    <None Include="Resources\calendario %281%29.png" />
+    <None Include="Resources\calendario %282%29.png" />
+    <None Include="Resources\factura1.png" />
+    <None Include="Resources\usuario1.png" />
+    <None Include="Resources\usuario %281%29.png" />
+    <None Include="Resources\boton-de-inicio-de-sesion-con-flecha.png" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\carta-de-barras.png" />
+    <None Include="Resources\reportar.png" />
+    <None Include="Resources\trabajo-en-equipo.png" />
+    <None Include="Resources\excavadora.png" />
+    <None Include="Resources\anadir.png" />
+    <None Include="Resources\menu %281%29.png" />
+    <None Include="Resources\salida1.png" />
+    <None Include="Resources\salir2.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\cerrar.png" />
+    <None Include="Resources\apagado.png" />
+    <None Include="Resources\teamwork.png" />
+    <None Include="Resources\cuenta.png" />
+    <None Include="Resources\weather_warning_signal_alert_exclamation_icon_124159.png" />
+    <None Include="Resources\campana-de-notificacion.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+>>>>>>> c914ecc4e70bd20047b5792bb7b198ea09b47722
 </Project>

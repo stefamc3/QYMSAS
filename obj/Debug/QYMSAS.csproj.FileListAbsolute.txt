@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe.config
 c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe
 c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\QYMSAS.pdb
@@ -333,3 +334,340 @@ D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.FacturaC
 D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.C_egreso_acopio.resources
 D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.C_Egreso_Recebera.resources
 D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Alerta.resources
+=======
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\QYMSAS.pdb
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\MySql.Data.dll
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\MySql.Data.xml
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\obj\Debug\QYMSAS.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Inicio.resources
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\obj\Debug\QYMSAS.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\obj\Debug\QYMSAS.exe
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\obj\Debug\QYMSAS.pdb
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\CircularProgressBar.dll
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\WinFormAnimation.dll
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\CircularProgressBar.xml
+c:\users\asus\documents\visual studio 2017\Projects\QYMSAS\QYMSAS\bin\Debug\WinFormAnimation.xml
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe.config
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\QYMSAS.pdb
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\CircularProgressBar.dll
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\WinFormAnimation.dll
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\CircularProgressBar.xml
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\MySql.Data.xml
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\bin\Debug\WinFormAnimation.xml
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.csprojResolveAssemblyReference.cache
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Inicio.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Properties.Resources.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.csproj.GenerateResource.Cache
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.exe
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.pdb
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Login.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Menu.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.CrearUsuario.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Aceites.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.BuscarAceites.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.BuscarCombustible.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Combustible.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.BuscarCuentaCobro.resources
+C:\Users\FRG\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.CuentasCobro.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe.config
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\QYMSAS.exe
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\QYMSAS.pdb
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\CircularProgressBar.dll
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\WinFormAnimation.dll
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\CircularProgressBar.xml
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\bin\Debug\WinFormAnimation.xml
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Aceites.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.BuscarCuentaCobro.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.BuscarCombustible.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.BuscarAceites.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Combustible.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.CrearUsuario.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.CuentasCobro.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Inicio.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Login.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Menu.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.exe
+C:\Users\ASUS\Desktop\QYMSAS\QYMSAS\obj\Debug\QYMSAS.pdb
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.exe.config
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.exe
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.pdb
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\CircularProgressBar.dll
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\WinFormAnimation.dll
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\CircularProgressBar.xml
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\bin\Debug\WinFormAnimation.xml
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Aceites.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarCuentaCobro.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarCombustible.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarAceites.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Combustible.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.CrearUsuario.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.CuentasCobro.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Inicio.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Login.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReciboDeCaja.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.exe
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.pdb
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarRecibo.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Horas.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarHoras.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu_Recebera.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Selección.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarFacturacion.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Facturacion.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Viaticos.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarViaticos.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.FacturacionRecebera.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Remisiones.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarFacturacionR.resources
+C:\Users\ASUS\Desktop\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.BuscarRemision.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.exe.config
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.exe
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.pdb
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\CircularProgressBar.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\WinFormAnimation.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\CircularProgressBar.xml
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\WinFormAnimation.xml
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Aceites.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Combustible.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.CrearUsuario.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.CuentasCobro.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Facturacion.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.FacturacionRecebera.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Horas.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Inicio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Login.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu_Recebera.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Properties.Resources.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReciboDeCaja.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Remisiones.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Selección.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Viaticos.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.exe
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.pdb
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.estadisticas.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\stdole.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Report.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.TipoReporte.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReportesOperarios.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.TipoR.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReporteM.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.GatosRecebera.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.GastosAcopio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Nomina_Recebera.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Maquinaria.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu_Acopio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Nomina_Acopio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.movimientos.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Resumen_Año.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Resumen_Mes.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Foton2.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.RETRO3.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.SZN114.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Produccion_Acopio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Resumen_Acopio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReporteAcopio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Facturacion_Acopio.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Trabajadores.resources
+C:\Users\ASUS\Documents\programa\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.AgregarMaquina.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.exe.config
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.exe
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\QYMSAS.pdb
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\CircularProgressBar.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\WinFormAnimation.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\EnvDTE.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\stdole.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.MSXML.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\CircularProgressBar.xml
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\MySql.Data.xml
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\WinFormAnimation.xml
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.csprojResolveAssemblyReference.cache
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Aceites.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.AgregarMaquina.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Combustible.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.CrearUsuario.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.CuentasCobro.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.estadisticas.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Facturacion.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Foton2.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Horas.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Inicio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Login.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Maquinaria.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu_Acopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Menu_Recebera.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.movimientos.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Nomina_Acopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Nomina_Recebera.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Produccion_Acopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Properties.Resources.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReciboDeCaja.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Remisiones.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Report.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReporteAcopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReporteM.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.ReportesOperarios.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Resumen_Acopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Resumen_Año.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Resumen_Mes.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.RETRO3.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Selección.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.SZN114.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.TipoR.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.TipoReporte.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Trabajadores.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Viaticos.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.csproj.GenerateResource.Cache
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.exe
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.pdb
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\RdlCompile.cache
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\RdlCompile.compiled
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.bascula.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Remisiones1.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\SpreadsheetLight.dll
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\bin\Debug\SpreadsheetLight.xml
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.csproj.ResolveComReference.cache
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Facturas_recebera.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Facturacion_Acopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Contraseña.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.FacturaC_Acopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.FacturaC_Recebera.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.C_egreso_acopio.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.C_Egreso_Recebera.resources
+D:\datos\Documents\programa YA\QYMSASej - copia\QYMSAS\obj\Debug\QYMSAS.Alerta.resources
+>>>>>>> c914ecc4e70bd20047b5792bb7b198ea09b47722
